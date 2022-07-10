@@ -1,5 +1,7 @@
-Functions : It is block of code which will be invoked when it is called , used to implement code reusability write once & run any number of time.
-                    As Javascript is object oreinted each entity is considered as object & functions are also considered as reference.
+Functions : It is block of code which will be invoked when it is called , used to implement
+ code reusability write once & run any number of time.
+                    As Javascript is object oreinted each entity is considered as 
+                    object & functions are also considered as reference.
                     
 --------------------------------------------------------
 --------------------------------------------------------
@@ -28,7 +30,7 @@ function function_name(args)    -> if any
 
 calling syntax : function_name()
  
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
 
  
 * Anonymous or Variable function
