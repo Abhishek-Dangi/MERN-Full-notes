@@ -1,4 +1,6 @@
-Datatypes : Datatype refers to type of data stored in variable , as JS is fully object oreinted hence variables are refrences & datatype indicate typeof data refered by refrence variable.
+Datatypes : Datatype refers to type of data stored in variable ,
+ as JS is fully object oreinted hence variables are refrences & 
+datatype indicate typeof data refered by refrence variable.
 
 Note :-
 
@@ -9,15 +11,17 @@ Note :-
 
 Types of datatypes :-
 
--> Primitive or Builtin datatypes  : Which have default support by language
+-> Primitive or Builtin datatypes  : Which have default support by 
+language
 
 number , string , boolean
 
--> Non primitive or User defined datatypes : Which will be implemented as per users requirement
+-> Non primitive or User defined datatypes : Which will be
+ implemented as per users requirement
 
 array , object , function 
 
---------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------
 
 
 
